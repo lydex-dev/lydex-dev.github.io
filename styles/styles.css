@@ -1,0 +1,25 @@
+button {
+    background-color: #00bf32;
+    color: whitesmoke;
+    border-radius: 10px;
+    border-width: 1px;
+    border-color: whitesmoke;
+    width: 200px;
+    height: 50px;
+}
+
+body {
+    background-color: rgb(20, 20, 20);
+}
+
+h1 {
+    color: whitesmoke;
+}
+
+header {
+    color: whitesmoke;
+}
+
+footer {
+    color: whitesmoke;
+}
